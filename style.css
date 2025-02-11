@@ -1,6 +1,18 @@
 @font-face{
   font-family: water;
-  src: url("https://cdn.glitch.global/97f7bbb3-2cd9-4b34-bbf2-d0a28c71f10b/Water%20Park.ttf?v=1738683075854");
+  src: url("https://cdna.artstation.com/p/assets/images/images/071/362/658/large/melody-ferguson-basictank4k.jpg?1705006691");
+}
+.irish-grover-regular {
+  font-family: "Irish Grover", serif;
+  font-weight: 400;
+  font-style: normal; 
+  
+  .mystery-quest-regular {
+  font-family: "Mystery Quest", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 }
 
 body {
@@ -8,16 +20,25 @@ body {
   text-align: center;
   color: navy;
   margin: auto;
-  font-family: water;
-}
+  
+  
+} 
+h2{
+    font-size: 30px;
+  font-family: "Irish Grover", serif ;
+    
+  }
 
 h1{
   font-size: 30px;
+  font-family:"Mystery Quest", serif;
+  
+
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
-  background-size: 600px 400px;
+  background-image: url("https://cdna.artstation.com/p/assets/images/images/071/362/658/large/melody-ferguson-basictank4k.jpg?1705006691");
+  background-size: 600px 500px;
   border-radius: 300px;
   border: 5px solid white;
 }
